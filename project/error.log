@@ -1,0 +1,1 @@
+{"time":"2025-06-19 13:26:44","message":"Email is required","code":422,"file":"C:\\Users\\HP\\Downloads\\kpi-3-exam\\project\\index.php","line":12,"trace":[{"file":"C:\\Users\\HP\\Downloads\\kpi-3-exam\\project\\index.php","line":30,"function":"checkInput"}]}
